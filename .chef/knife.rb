@@ -1,1 +1,1 @@
-cookbook_path    ' ~/jenkins-chef-repo/cookbooks'
+cookbook_path    '~/jenkins-chef-repo/cookbooks'
